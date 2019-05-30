@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "80576936128",
+    "firebase_url": "https://farmersbuyerslink2.firebaseio.com",
+    "project_id": "farmersbuyerslink2",
+    "storage_bucket": "farmersbuyerslink2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80576936128:android:0af13ea48b1381df",
+        "android_client_info": {
+          "package_name": "fyp.example.farmersbuyerslink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80576936128-qsf4aj0060rsb8mvrc5u0k5ljq083feh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fyp.example.farmersbuyerslink",
+            "certificate_hash": "3fee2d11d9c967fa4562640d19a713485a73ac7b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXkg7hwNTHjc_ybNiFqceMkiraVLpEYS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80576936128-h9dkfk7jogb3umnsc9bncgfcffu80e60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BF007A</color>
+    <color name="colorPrimaryDark">#BF007A</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorOffBlack">#1B1B1B</color>
+    <color name="colorGrey">#717171</color>
+    <color name="colorGreyDark">#939393</color>
+    <color name="colorGreyLight">#d3d3d3</color>
+    <color name="Magneta">#FF00FF</color>
+    <color name="yellow">#FFFF00</color>
+</resources>

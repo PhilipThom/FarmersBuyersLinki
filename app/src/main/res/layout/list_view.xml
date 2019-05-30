@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_marginTop="16dp"
+    android:layout_marginBottom="16dp"
+    android:layout_marginRight="16dp"
+
+    android:layout_marginLeft="16dp"
+    android:elevation="30dp"
+    android:background="@drawable/shodow">
+    <TextView
+        android:text="Name"
+        android:textSize="20sp"
+        android:id="@+id/farmer_textview_name"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="Phone"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:id="@+id/farmer_textview_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="Qantity"
+        android:id="@+id/farmer_textview_quantity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"/>
+
+
+    <TextView
+        android:text="Type"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:id="@+id/farmer_textview_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"/>
+    <TextView
+        android:text="City"
+        android:id="@+id/farmer_textview_city"
+        android:layout_width="match_parent"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        android:padding="10dp"/>
+
+
+
+</LinearLayout>
